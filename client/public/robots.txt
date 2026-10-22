@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skandha-java-mongo.onrender.com/sitemap.xml
